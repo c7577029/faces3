@@ -1,7 +1,7 @@
 <?php
 //Header('Content-type: image/jpeg');
 
-echo "<h1><u>The UK & NL Monster Support On-Call Rota</u></h1><h3>" . date("d/m/Y") . "</h3><br/>";
+echo "<h1><u>UK & NL Support Team</u></h1><h3>" . date("d/m/Y") . "</h3><br/>";
 //echo "The time is " . date("d/m/Y") . "<br>";
 
 $faces = array("Kevin", "Gary", "Eaps", "Vic", "Peter", "Alix", "Amit", "Zed");
