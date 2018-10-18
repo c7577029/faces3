@@ -7,7 +7,7 @@ echo "<h1><u>UK & NL Support Team</u></h1><h3>" . date("d/m/Y") . "</h3><br/>";
 $faces = array("Kevin", "Gary", "Eaps", "Vic", "Peter", "Alix", "Amit", "Zed");
 //$faces = array("Kevin", "Gary", "Eaps", "Vic", "Peter", "Alix", "Amit", "Zed", "Sridhar");
 
-echo "<h2>Select support resource from list</h2><br/>";
+echo "<h2>Select WITH CAUTION!!</h2><br/>";
 
 foreach ($faces as $face) {
 	echo "    <a href='./images/$face.png'>$face</a><br/>";
